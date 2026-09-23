@@ -9,6 +9,10 @@ server/node_modules/
 client/.env
 server/.env
 
+
+# Firebase service account
+backend/services/auth/serviceAccountKey.json
+
 # Build output
 dist/
 build/
@@ -26,3 +30,4 @@ yarn-error.log*
 .idea/
 .DS_Store
 Thumbs.db
+
